@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  dinosaurs = ["Velociraptor", "Stegosaurus", "Pteradactyl", "Ankylosaur, arrays!"]
+  dinosaurs = ["Velociraptor", "Stegosaurus", "Pteradactyl", "Ankylosaur", "arrays!"]
   dinosaurs.pop
 end
 
